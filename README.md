@@ -7,7 +7,6 @@ This project analyzes the 2025 Kaggle Machine Learning & Data Science Survey to 
 ## 📦 Contents
 
 - `task4.ipynb`: Main notebook with step-by-step analysis
-- `kaggle_survey_2017_2021.csv/`: Folder for raw and cleaned survey data
 - `README.md`: Project overview and summary
 
 ---
@@ -42,11 +41,17 @@ This project analyzes the 2025 Kaggle Machine Learning & Data Science Survey to 
 
 ---
 
-## 📁 Dataset
+## 📁 Dataset Access
+
+The dataset used in this analysis is not included in the repository due to size constraints.  
+If you'd like to run the notebook and reproduce the results, you can download the data from the following link:
 
 - Source: [Kaggle ML & DS Survey 2025](https://www.kaggle.com/datasets/andradaolteanu/kaggle-data-science-survey-20172021)
 - Format: CSV
 - License: Refer to Kaggle dataset terms
+  
+Once downloaded, place the file in the same directory as the `.ipynb` notebook to ensure proper loading.
+
 
 ---
 
